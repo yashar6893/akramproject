@@ -1,5 +1,12 @@
 print ("hello")
 print ("akram")
+<<<<<<< HEAD
 print("dtfhyfg")
 print ("fmghj,fmhf")
 print ("yashar")
+=======
+print ("aaaa")
+print ("gggg")
+print ("fatemeh")
+ print ("xxxxx")
+>>>>>>> develop
